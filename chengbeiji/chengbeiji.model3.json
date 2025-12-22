@@ -11,123 +11,123 @@
 			"": [
 				{
 					"File": "motions/00_Normal_M.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/01_Idle_M.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/02_Look-right_M.motion3.json",
-					"FadeInTime": 1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/03_Look-righ-wait_M.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/04_Sigh_M.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/05_Shake-head_M.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/06_Get-startled-and-laugh_M.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/07_Cross-arms_M.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/102_Angry_E.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/103_Grin_E.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/103_Smeil_E.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/104_Shy_E.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/105_Confused_E.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/107_Serious_E.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/108_Cry_E.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/109_Normal_E.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/110_awkward_E.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/111_speechless_E.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/112_Gentle_E.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/113_meditation_E.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/114_dark-face_E.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/115_frown_E.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/116_guilty_E.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				},
 				{
 					"File": "motions/116_wow_E.motion3.json",
-					"FadeInTime": 0.1,
-					"FadeOutTime": 0.1
+					"FadeInTime": 0.02,
+					"FadeOutTime": 0.02
 				}
 			]
 		}
@@ -135,12 +135,12 @@
 	"Groups": [
 		{
 			"Target": "Parameter",
-			"Name": "LipSync",
+			"Name": "EyeBlink",
 			"Ids": []
 		},
 		{
 			"Target": "Parameter",
-			"Name": "EyeBlink",
+			"Name": "LipSync",
 			"Ids": []
 		}
 	],
